@@ -10,8 +10,8 @@
 ## 💼 Professional Experience
 
 **🌱 Mumbai International Airport (Adani Airport Holdings Limited)** – *ESG Intern* *(Jul 2023 – Sep 2023)*
-- Collected and analyzed Scope 1, 2 & 3 carbon emissions data from multiple departments and external stakeholders. 
-- Developed Excel-based carbon emission models for ~26K – 28K monthly flights.
+- Collected and analyzed **GHG Scope 1, 2 & 3** carbon emissions data from multiple departments and external stakeholders. 
+- Developed Excel-based carbon emission models for **~26K – 28K** monthly flights.
 - Contributed to securing **ACI Level 4+ “Transition” accreditation** for sustainability.  
 - Coordinated a **5,000-tree plantation drive** with govt., internal & external stakeholders.
 
