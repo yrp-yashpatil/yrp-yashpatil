@@ -7,17 +7,7 @@
 
 ---
 
-## 🌟 About Me  
-🚀 **MBA - Aviation Management (Singhania University, 2024)** | **Bsc - Aeronautics (University of Mumbai, 2019)**
-
-- ✈️ Experience in **aviation operations & ESG** at **Mumbai International Airport** and **IndiGo Airlines**.  
-- 🌍 Passionate about **sustainability strategies, carbon reduction & green initiatives**.  
-- 📊 Exploring **data visualization, business analytics & financial modelling**.  
-- 🔎 Interested in analyzing **business models** and developing **data-driven strategies**.  
-
----
-
-## 💼 Professional Experience  
+## 💼 Professional Experience
 
 **🌱 Mumbai International Airport (Adani Airport Holdings Limited)** – *ESG Intern* (Jul 2023 – Sep 2023)  
 - Collected and analyzed Scope 1, 2 & 3 carbon emissions data from multiple departments and external partners. 
@@ -33,8 +23,8 @@
 ---
 
 ## 🎓 Education  
-- **MBA – Aviation Management** | *Singhania University* (2022–2024) – CGPA: 7.78/10 (First Division)  
-- **B.Sc. – Aeronautics** | *University of Mumbai* (2016–2019) – CGPA: 5.83/10  
+- **MBA – Aviation Management** | *Singhania University* | (2022–2024) – CGPA: 7.78/10 (First Division)  
+- **B.Sc. – Aeronautics** | *University of Mumbai* | (2016–2019) – CGPA: 5.83/10  
 
 ---
 
@@ -44,21 +34,16 @@
 - 📊 Data Visualization *(2025)* | Business Analytics *(2025)* | Data Science *(2025)* | Artificial Intelligence *(2025)*  
 - ✈️ Aviation Leasing *(2024)* | Aircraft Technical Records *(2024)* | Revenue Management *(2024)*  
 
-👉 [Full list of certifications here](https://github.com/yrp-yashpatil/certificates)  
-
 ---
 
 ## 🛠️ Skills & Tools  
 **Analytics & Visualization:**  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Alteryx](https://img.shields.io/badge/Alteryx-Learning-teal?logo=alteryx&logoColor=white)  
+- MS Excel, MS Word, MS Powerpoint
+- Power BI, Tableau, Alteryx
+- Python (learning), SQL (learning) 
 
 **Business & Strategy:**  
-📈 Financial Modelling (learning) | 🔎 Market Research | 🧩 Root Cause Analysis | 🗂️ Strategic Planning  
+📈 Financial Modelling (learning) | 🔎 Market Research | 🧩 Root Cause Analysis | 🗂️ Strategic Planning
 
 **Languages:**  
 🇬🇧 English (fluent) | 🇮🇳 Hindi (native) | 🇮🇳 Marathi (native)  
@@ -66,8 +51,8 @@
 ---
 
 ## 🚀 Projects & Highlights  
-- 🛫 **Circular Runway Prototype** – *1st Prize*, Aeronautical Project Seminar.  
-- 🚁 **Amphibian Helicopter Model** – Dual-environment prototype (land & water).  
+- 🛫 **Circular Runway Functional Model** – *1st Prize*, Aeronautical Project Seminar.  
+- 🚁 **Amphibian Helicopter Working Model** – Dual-environment prototype (land & water).  
 - 🌱 **Aviation Carbon Emission Analysis** – Carbon models for 26K+ flights/month, supporting sustainability reporting.  
 
 ---
