@@ -7,7 +7,7 @@
 ---
 
 ## 💼 Management / Strategy Consulting
-- Boston Consulting Group BCG - *Strategy Consulting* by Forage.com *(Jun 2025)* [📂 Certificate (PDF)](./file:///D:/YASH_PATIL/CERTIFICATIONS%20&%20JOB%20SIMULATIONS/FORAGE.COM/Boston%20Consulting%20Group%20BCG/BCG%20-%20Strategy%20Consulting.pdf)
+- Boston Consulting Group BCG - *Strategy Consulting* by Forage.com *(Jun 2025)*
 - Boston Consulting Group BCG - *Climate & Sustainability* by Forage.com *(Jun 2025)* 
 - Accenture - *Strategy Consulting* by Forage.com *(Jun 2025)*
 - Mastercard - *Advisors & Client Services* by Forage.com *(Jul 2025)* 
@@ -36,9 +36,10 @@
 ---
 
 ## 🖥️ Data Analysis Tools
-- Python
-- SQL
-- Excel
+- Python *(beginner)*
+- SQL *(beginner)*
+- Excel 
+- Excel / VBA Macros *(beginner)*
 - PowerPoint
 - Word
 
@@ -54,7 +55,7 @@
 ---
 
 ## 🤖 Artificial Intelligence
-- Introduction to Modern AI by *Cisco Networking Academy & IBM SkillsBuild*
+- Introduction to Modern AI by *Cisco Networking Academy*
 - Artificial Intelligence Fundamentals by *IBM SkillsBuild* *(Sep 2025)*
 - Fundamentals of AI & ML by *Amazon Web Services AWS* *(Starting Soon)*
 - OCI AI Foundations by *Oracle* *(Starting Soon)*
