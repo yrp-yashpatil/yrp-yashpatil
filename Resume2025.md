@@ -1,9 +1,9 @@
-## Hello There! I am Yash Patil 👋
+# Hello There! I am Yash Patil 👋
 
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com)  
 
-*I am new to GitHub.* *Here you will find the complete list of all my certifications and other details.*
-*Looking forward to a career in Management Consulting, Business Analysis, Data Analysis, etc...*
+*I am new to GitHub and learning GitHub*
+*I am building a career in **Management Consulting, Business Analysis, Corporate Planning, and Strategy Analysis**, and these certifications reflect my commitment to developing the skills needed in these fields.
 
 *Will be adding projects to the repository soon!*
 
@@ -11,22 +11,34 @@
 
 ## 💼 Professional Experience
 
-**🌱 Mumbai International Airport (Adani Airport Holdings Limited)** – **(*ESG Intern*)** *(Jul 2023 – Sep 2023)*
-- Collected and analyzed **GHG Scope 1, 2 & 3** carbon emissions data from multiple departments and external stakeholders. 
-- Developed Excel-based carbon emission models for **~26K – 28K** monthly flights.
-- Contributed to securing **ACI Level 4+ “Transition” accreditation** for sustainability.  
-- Coordinated a **5,000-tree plantation drive** with govt., internal & external stakeholders.
+### 🌱 Mumbai International Airport (Adani Airport Holdings Limited)** <br>
+**ESG Summer Internship - Environment & Sustainability Governance ESG** <br>
+**_Jul 2023 – Sep 2023_** <br>
+**_Mumbai, India_** <br>
+- Collected and analyzed **GHG Scope 1, 2 & 3 carbon emissions data** from multiple departments and external partners, ensuring accuracy and actionable insights for ESG reporting.
+- Developed Excel-based carbon emission models for **~26K – 28K monthly flights**, improving ESG reporting and guiding sustainability strategy development.
+- Coordinated with government agencies and private stakeholders to deliver a green initiative planting **5,000 trees**, advancing carbon offset and biodiversity goals.
+- Contributed to Mumbai Airport’s submission for Airports Council International (ACI) helping secure **Level 4+ “Transition” accreditation** for sustainability.
+- Strengthened cross-functional collaboration, stakeholder engagement, and environmental data analysis in a regulated, high-impact infrastructure environment.
 
-**🛫 IndiGo Airlines (InterGlobe Aviation Limited)** – **(*AO&CS Ramp Officer*)** *(Feb 2020 – Jul 2020)*
-- Led an 8-member team managing **400+ aircraft turnarounds** with **100% OTP**.  
-- Ensured compliance with **DGCA & DGR safety standards**.  
-- Acted as liaison between flight crews, ground ops, and authorities.  
+
+### 🛫 IndiGo Airlines (InterGlobe Aviation Limited)** <br>
+**Ramp Officer - Airport Operations & Customer Service (AO&CS)** <br> 
+**_Feb 2020 – Jul 2020_** <br>
+- Led an 8-member team to deliver **400+ aircraft turnarounds with 100% on-time performance** and zero safety violations, maintaining operational excellence in a high-pressure environment.
+- Implemented proactive task monitoring and risk mitigation strategies, reducing delays & ensuring compliance with DGR & DGCA safety standards, and enhancing overall operational efficiency.
+- Served as liaison between flight crews, ground operations, customer service teams and airport authorities, streamlining communication and cross-functional coordination.
 
 ---
 
 ## 🎓 Education  
-- **MBA – Aviation Management** | *Singhania University* | (2022–2024) – CGPA: 7.78/10 (First Division)  
-- **B.Sc. – Aeronautics** | *University of Mumbai* | (2016–2019) – CGPA: 5.83/10  
+**Master of Bsuniness Administration (MBA) – Aviation Management** (2022–2024)  <br>
+  **Singhania University** <br>
+    CGPA: 7.78/10 (First Division)  <br>
+
+**Bachelor of Science – Aeronautics** (2016–2019) <br>
+ *University of Mumbai* <br>
+  CGPA: 5.83/10 <br>
 
 ---
 
