@@ -7,8 +7,8 @@
 ---
 
 ## 💼 Management / Strategy Consulting
-- Boston Consulting Group BCG - *Strategy Consulting* by Forage.com *(Jun 2025)*
-- Boston Consulting Group BCG - *Climate & Sustainability* by Forage.com *(Jun 2025)* 
+- Boston Consulting Group BCG - *Strategy Consulting*  <br> by Forage.com *(Jun 2025)*
+- Boston Consulting Group BCG - *Climate & Sustainability* <br> by Forage.com *(Jun 2025)* 
 - Accenture - *Strategy Consulting* by Forage.com *(Jun 2025)*
 - Mastercard - *Advisors & Client Services* by Forage.com *(Jul 2025)* 
 - Oliver Wyman - *Integrated Consulting Group* by Forage.com *(In Progress)*
@@ -28,10 +28,10 @@
 - Introduction to Data Science by *Cisco Networking Academy* *(Jul 2025)*
 - Data Analytics Essentials by *Cisco Networking Academy* *(In progress)*
 - Business Analysis by *Microsoft & LinkedIn Learning*  *(In Progress)* 
-- Britsh Airways - *Data Science* by Forage.com *(In Progress)*
+- British Airways - *Data Science* by Forage.com *(In Progress)*
 - Tata Group - *Gen AI powered Data Analytics* by Forage.com *(In Progress)*
-- Data Analytics BootCamp by *Udemy* *(In Progess)*
-- Data Science by *IBM SkillsBuild* *(In Progress)*
+- Data Analytics Boot-Camp by *Udemy* *(In Progress)*
+- Data Science by *IBM Skills-Build* *(In Progress)*
 
 ---
 
