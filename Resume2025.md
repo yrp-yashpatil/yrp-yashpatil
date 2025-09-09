@@ -3,16 +3,17 @@
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com)  
 
 *I am new to GitHub and learning GitHub.* <br>
-*I want to build a career in **Management Consulting, Business Analysis, Corporate Planning, and Strategy Analysis**, and these certifications reflect my commitment to developing the skills needed in these fields.*
+
+*I want to build a career as a **Management Consultant, Business Analyst, Corporate Planning Analyst, and Strategy Analyst***
 
 *Will be adding projects to the repository soon!*
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ### 🌱 Mumbai International Airport (Adani Airport Holdings Limited)** <br>
-**ESG Summer Internship - Environment & Sustainability Governance ESG** <br>
+**ESG Summer Internship - Environment & Sustainability Governance (ESG)** <br>
 **_Jul 2023 – Sep 2023_** <br>
 **_Mumbai, India_** <br>
 - Collected and analyzed **GHG Scope 1, 2 & 3 carbon emissions data** from multiple departments and external partners, ensuring accuracy and actionable insights for ESG reporting.
@@ -32,7 +33,7 @@
 
 ---
 
-## 🎓 Education  
+# 🎓 Education  
 **Master of Bsuniness Administration (MBA) – Aviation Management** - (2022–2024)  <br>
 **Singhania University - Rajasthan, India** <br>
     CGPA: 7.78/10 (First Division)  <br>
@@ -43,102 +44,60 @@
 
 ---
 
-## 📜 Certifications & Continuous Learning
+# 📜 Certifications & Continuous Learning
+*The complete list of all the certifications are available in the **(Certifications & Continuous Learning.md)*** <br>
 
-**💼 Management / Strategy Consulting**
-- Boston Consulting Group BCG - Strategy Consulting by *Forage.com* *(Jun 2025)* 
-
-- Boston Consulting Group BCG - Climate & Sustainability by *Forage.com* *(Jun 2025)* 
-
-- Accenture - Strategy Consulting by *Forage.com* *(Jun 2025)*
-
-- Mastercard - Advisors & Client Services by *Forage.com* *(Jul 2025)* 
-
-- Oliver Wyman - Integrated Consulting Group by *Forage.com* *(In Progress)*
-
-- PwC - Management Consulting by *Forage.com* *(In Progress)* 
-
-**🪙 Finance**
-- Corporate Finance Foundations by *LinkedIn Learning* *(In progress)* 
-
-- Financial Modelling & Analysis by *LinkedIn Learning* *(In Progress)*
-
-- Financial Markets *(ongoing)* by *Yale University* by Coursera *(In Progress)* 
- 
-**🖥️ Data Analytics & Data Science**
-- Introduction to Data Science by *Cisco Networking Academy* *(Jul 2025)*
-
-- Data Analytics Essentials by *Cisco Networking Academy* *(In progress)*
-
-- Business Analysis by *Microsoft & LinkedIn Learning*  *(In Progress)* 
-
-- British Airways - Data Science by *Forage.com* *(In Progress)*
-
-- Tata Group - Gen AI powered Data Analytics by *Forage.com* *(In Progress)*
-
-- Data Analytics BootCamp by *Udemy* *(In Progress)*
-
-- Data Science by *IBM SkillsBuild* *(In Progress)*
-
-**🤖 Artificial Intelligence**
-- Introduction to Modern AI by *Cisco Networking Academy & IBM SkillsBuild*
-
-- Artificial Intelligence Fundamentals by *IBM SkillsBuild* *(Sep 2025)*
-
-**✈️ Aviation**
-- Norton Rose FulBright - Aviation Finance & Leasing by Forage.com *(Jun 2025)*
-
-- Aviation Leasing by *International Aviation Lease Training Association* *(Oct 2024)*
-
-- Aircraft Technical Records by *International Aviation Lease Training Association* *(Oct 2024)*
-
-- Airline Revenue Management by *Udemy* *(Nov 2024)*
-
-- Extended Twin-engine Operations Performance Standards by *Udemy* *(Nov 2024)*
-
-- North Atlantic High Level Airspace NATHLA by *Udemy* *(Nov 2024)*
-
-- Safety Management System by *Udemy* *(Oct 2024)*
-
-**📊 Data Visualization**
-- Power BI Essentials by *LinkedIn Learning* *(Mar 2025)*
-
-- Power BI Desktop by *LinkedIn Learning* *(Apr 2025)*
-
-- Tableau Essentials by *LinkedIn Learning*
+## McKinsey Forward Program by *McKinsey & Company*
+- 
+## Other Certifications
+- **💼 Management / Strategy Consulting**
+- **🪙 Finance**
+- **📊 Data Visualization**
+- **🖥️ Data Analytics & Data Science**
+- **🤖 Artificial Intelligence**
+- **✈️ Aviation**
 
 ---
 
-## 🛠️ Skills & Tools  
-**Analytics & Visualization:**  
-- Microsoft Excel 
-- Microsoft Word 
+# 🛠️ Skills
+### 📊 Data Analysis & Visualization Tools
+- Microsoft Excel
+- Microsoft Word
 - Microsoft Powerpoint 
 - Power BI
 - Tableau
-- - Excel VBA Macros *(learning)*
-- Python *(learning)*
-- SQL *(learning)*
+- Excel VBA Macros *(learning)*
+- Python *(Working Knowledge)*
+- Jupyter Notebooks *(Working Knowledge)*
+- SQL *(Working Knowledge)*
 
-**Business & Strategy:**  
+### 💼 Business & Strategy
 - Financial Modelling *(learning)*
 - Market Research
 - Root Cause Analysis
 - Strategic Planning
 
-**Languages:**  
-- 🇬🇧 English *(fluent)*
+### 🌏 Languages
+- 🇬🇧 English *(native)*
 - 🇮🇳 Hindi *(native)*
 - 🇮🇳 Marathi *(native)*
 
 ---
 
-## 🚀 Projects & Highlights  
+# 🚀 Projects
+*(Find all the projects in the projects repository)* 
+
+### 🖥️ Independent Business & Data Analysis
+Personal Project(s)
+- Currently analyzing datasets to strengthen skills in data visualization, business analysis, and strategy insights.
+
 ### 🛫 Circular Runway Functional Model
+Bsc. Aeronautics, 2017
 - Innovation Leadership: Led a 6-member team for the design and development of a first-of-its-kind circular runway model to demonstrate unconventional airport infrastructure.
 - Result: Awarded 1st Prize at the Aeronautical Project Seminar.
 
-### Amphibian Helicopter Working Model
+### 🚁 Amphibian Helicopter Working Model
+Bsc. AeroAeronautics, 2016
 - Leadership: Led a team of 6 for the design and development of a dual-environment helicopter capable of land and water operations.
 - Result: Demonstrated advanced aerodynamic principles and teamwork through successful model execution.
 
