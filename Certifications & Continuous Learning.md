@@ -6,7 +6,7 @@
  
 ---
 
-## 💼 Management / Strategy Consulting
+# 💼 Management / Strategy Consulting
 - Boston Consulting Group BCG - Strategy Consulting by *Forage.com* *(Jun 2025)* 
 
 - Boston Consulting Group BCG - Climate & Sustainability by *Forage.com* *(Jun 2025)* 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🪙 Finance
+# 🪙 Finance
 - Corporate Finance Foundations by *LinkedIn Learning* *(In progress)* 
 
 - Financial Modelling & Analysis by *LinkedIn Learning* *(In Progress)*
@@ -32,7 +32,7 @@
 
 ---
  
-## 🖥️ Data Analytics & Data Science
+# 🖥️ Data Analytics & Data Science
 - Introduction to Data Science by *Cisco Networking Academy* *(Jul 2025)*
 
 - Data Analytics Essentials by *Cisco Networking Academy* *(In progress)*
@@ -47,11 +47,11 @@
 
 - Data Science by *IBM SkillsBuild* *(In Progress)*
 
-- SQL Heatwave by *Oracle* 
+- OCI SQL Heatwave by *Oracle* 
 
 ---
 
-## 📊 Data Visualization
+# 📊 Data Visualization
 - Power BI Essentials by *LinkedIn Learning* *(Mar 2025)*
 
 - Power BI Desktop by *LinkedIn Learning* *(Apr 2025)*
@@ -60,14 +60,14 @@
 
 ---
 
-## 🤖 Artificial Intelligence
+# 🤖 Artificial Intelligence
 - Introduction to Modern AI by *Cisco Networking Academy & IBM SkillsBuild*
 
 - Artificial Intelligence Fundamentals by *IBM SkillsBuild* *(Sep 2025)*
 
 ---
 
-## ✈️ Aviation
+# ✈️ Aviation
 - Norton Rose FulBright - Aviation Finance & Leasing by Forage.com *(Jun 2025)*
 
 - Aviation Leasing by *International Aviation Lease Training Association* *(Oct 2024)*
