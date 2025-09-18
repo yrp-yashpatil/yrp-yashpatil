@@ -2,11 +2,54 @@
 
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com)  
 
-*I am new to GitHub and learning GitHub.* <br>
+---
 
-*I want to build a career as a **Management Consultant, Business Analyst, Corporate Planning Analyst, and Strategy Analyst***
+# Summary
+Currently learning GitHub and expanding my technical toolkit. <br>
+Aspiring to build a career as a  Management Consultant, Strategy Consultant, Business Analyst, Corporate Planning Analyst.<br>
+Passionate about leveraging data and technology to solve business challenges. <br>
+*🚀 I will be adding projects to the repository soon, stay tuned!*
 
-*Will be adding projects to the repository soon!*
+# About Me
+❤️ I began my journey in aviation with the dream of becoming a pilot. While financial constraints redirected that path, they sparked something deeper; a lifelong pursuit of operational excellence, structured & system thinking, and strategic problem-solving.
+
+### 💼 Career Interests
+- Management Consultant
+- Strategy Consultant
+- Business Analyst
+- Route Network Planning Analyst
+- ESG & Aviation Strategy Analyst
+- Corporate Planning Analyst
+- Corporate Strategy Analyst
+
+### 📚 Currently Enhancing Skills In
+- Corporate Finance
+- Financial Markets
+- Financial Modelling
+- Business Analysis
+- Data Analysis Tools
+- Artificial Intelligence
+- Machine Learning 
+
+### 🧠 Core Strengths
+- Emotional Intelligence
+- Empathy
+- Structured Thinking
+- Teamwork
+- Stakeholder Management
+- Adaptability
+- Professional Resilience
+- Analytical Rigor
+- Learning Agility
+- Cross-functional Collaboration
+
+### 💡 Beyond the Resume
+- Passionate about solving business problems with logic and data, and creating strategies that drive growth and transformation.
+
+### 🌏 Interests
+- F1 & WEC - Strategy and team performance under pressure
+- Watches, Time pieces, Aircrafts, Performance Cars - Design, systems, and precision
+- Books, Tech & Continuous Learning - Always evolving through knowledge
 
 ---
 
@@ -90,16 +133,31 @@
 ### 🖥️ Independent Business & Data Analysis
 Personal Project(s)
 - Currently analyzing datasets to strengthen skills in data visualization, business analysis, and strategy insights.
+- *Projects Repository* will be updated soon.
+
+### 💴 Finance Data Analysis
+- Currntly learning to build valuation models (DCF, etc.)
+- *Finance Repository* will be updated soon.
+
+---
+
+# 🦾 Extracurricular Activities
 
 ### 🛫 Circular Runway Functional Model
-Bsc. Aeronautics, 2017
+**Bsc. Aeronautics, 2017**
 - Innovation Leadership: Led a 6-member team for the design and development of a first-of-its-kind circular runway model to demonstrate unconventional airport infrastructure.
 - Result: Awarded 1st Prize at the Aeronautical Project Seminar.
 
 ### 🚁 Amphibian Helicopter Working Model
-Bsc. AeroAeronautics, 2016
+**Bsc. Aeronautics, 2016**
 - Leadership: Led a team of 6 for the design and development of a dual-environment helicopter capable of land and water operations.
 - Result: Demonstrated advanced aerodynamic principles and teamwork through successful model execution.
+
+---
+
+# ✨ Thank You
+- Thank you for checking out my repository!
+- I am excited to keep building projects and would be glad to connect with like-minded professionals.
 
 ---
 
