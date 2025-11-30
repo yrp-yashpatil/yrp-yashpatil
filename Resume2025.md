@@ -1,14 +1,42 @@
 # Hello There! I am Yash Patil 👋
 
-[![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com)  
+[![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com) [![Credly](https://img.shields.io/badge/Credly-Follow-white?logo=credly)](https://www.credly.com/users/yrp_yashpatil)
+
+---
+
+# Skills
+## Data Analysis
+- Python (Pandas, NumPy)
+- SQL (Intermediate)
+- Google Big Query (learning)
+- Jupyter Notebook
+- Advanced Excel (Pivot Tables, Macros, Modelling)
+- Exploratory Data Analysis EDA
+## Data Visualization
+- Power BI
+- Tableau
+- MS PowerPoint
+- Python (Matplotlib, Seaborn)
+- MS Word
+- Google Looker (learning)
+## Cloud & Automation
+- Fundamentals of AI, ML & Gen AI
+- learning to build AI Agents
+- Google Cloud Platform
+- Oracle Cloud Infrastructure 
+## Business & Strategy
+- Root Cause Analysis
+- Strategic Planning
+- Market Research
+- ESG
+- Financial Modelling (learning)
 
 ---
 
 # Summary
-Currently learning GitHub and expanding my technical toolkit. <br>
 Aspiring to build a career as a  Management Consultant, Strategy Consultant, Business Analyst, Corporate Planning Analyst.<br>
 Passionate about leveraging data and technology to solve business challenges. <br>
-*🚀 I will be adding projects to the repository soon, stay tuned!*
+*🚀 I will be adding more projects to the repository soon, stay tuned!*
 
 # About Me
 ❤️ I began my journey in aviation with the dream of becoming a pilot. While financial constraints redirected that path, they sparked something deeper; a lifelong pursuit of operational excellence, structured & system thinking, and strategic problem-solving.
@@ -102,24 +130,6 @@ Passionate about leveraging data and technology to solve business challenges. <b
 
 ---
 
-# 🛠️ Skills
-### 📊 Data Analysis & Visualization Tools
-- Microsoft Excel
-- Microsoft Word
-- Microsoft Powerpoint 
-- Power BI
-- Tableau
-- Excel VBA Macros *(learning)*
-- Python *(Working Knowledge)*
-- Jupyter Notebooks *(Working Knowledge)*
-- SQL *(Working Knowledge)*
-
-### 💼 Business & Strategy
-- Financial Modelling *(learning)*
-- Market Research
-- Root Cause Analysis
-- Strategic Planning
-
 ### 🌏 Languages
 - 🇬🇧 English *(native)*
 - 🇮🇳 Hindi *(native)*
@@ -133,7 +143,7 @@ Passionate about leveraging data and technology to solve business challenges. <b
 ### 🖥️ Independent Business & Data Analysis
 Personal Project(s)
 - Currently analyzing datasets to strengthen skills in data visualization, business analysis, and strategy insights.
-- *Projects Repository* will be updated soon.
+- *Projects Repository* have been updated in repository(s)
 
 ### 💴 Finance Data Analysis
 - Currntly learning to build valuation models (DCF, etc.)
