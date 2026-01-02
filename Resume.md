@@ -75,8 +75,8 @@
 ---
 
 # Certifications
-Oracle Cloud, Google Cloud, McKinsey & Company, Cisco, IBM, Boston Consulting Group BCG.
-[Certifications.md](docs/documentation_file.md)
+Oracle Cloud, Google Cloud, McKinsey & Company, Cisco, IBM, Boston Consulting Group BCG <br>
+[Certifications.md](https://github.com/yrp-yashpatil/yrp-yashpatil/blob/main/Certifications..md)
 
 
 ---
