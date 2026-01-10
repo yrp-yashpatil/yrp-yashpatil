@@ -14,6 +14,13 @@ This Markdown document outlines my professional certifications, showcasing my co
 
 ---
 
+## SAP 
+- SAP Certified - SAP Business Data Cloud (C_BCBDC)
+- SAP Certified Associate Data Analyst - SAP Analytics Cloud (C_SAC)
+- SAP Certified Associate - Process Data Analyst - SAP Signavio (C_SIGDA)
+
+---
+  
 ## McKinsey & Company 
 - McKinsey Forward Program 2025 (10 weeks)
 - Skills for Success 2025
@@ -22,10 +29,16 @@ This Markdown document outlines my professional certifications, showcasing my co
 
 ## IBM 
 - IBM AI Accelerator Program 2026 (10 weeks)
+- IBM Artificial Intelligence Fundamentals 
 
 ---
 
 ## Google 
 - Google Cloud Data Analytics
+
+---
+
+## Cisco Networking Academy
+- Cisco Data Analytics Essentials
 
 ---
