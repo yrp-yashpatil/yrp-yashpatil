@@ -1,7 +1,8 @@
 # Hello There, I am Yash Patil 👋
 Data & AI Analyst | Strategy & Business Intelligence <br>
 I turn complex, messy data into clear decisions. My work sits at the intersection of data analytics, AI/ML, and business strategy with a focus on building production-ready pipelines and analytical tools that drive real outcomes.<br>
-Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, Management Consulting & Finance.
+Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, Management Consulting & Finance.<br>
+[![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil) 
 
 ---
 
@@ -45,3 +46,10 @@ Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, M
 - This blend of on-the-ground operations, sustainability analysis, and now data/AI gives me a practical, business-first lens on analytics.
 
 ---
+
+# ✨ Let's Connect
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil) <br>
+[![Credly](https://img.shields.io/badge/Credly-Follow-white?logo=credly)](https://www.credly.com/users/yrp_yashpatil) <br>
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-white?logo=Kaggle)](https://www.kaggle.com/yashrp8) <br>
