@@ -1,6 +1,6 @@
 # Hello There, I am Yash Patil 👋
-Data & AI Analyst | Strategy & Business Intelligence | Mumbai, India
-I turn complex, messy data into clear decisions. My work sits at the intersection of data analytics, AI/ML, and business strategy with a focus on building production-ready pipelines and analytical tools that drive real outcomes.
+Data & AI Analyst | Strategy & Business Intelligence <br>
+I turn complex, messy data into clear decisions. My work sits at the intersection of data analytics, AI/ML, and business strategy with a focus on building production-ready pipelines and analytical tools that drive real outcomes.<br>
 Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, Management Consulting & Finance.
 
 ---
