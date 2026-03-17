@@ -47,9 +47,15 @@ Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, M
 
 ---
 
+![snake gif](https://github.com/yrp-yashpatil/yrp-yashpatil/blob/output/github-snake-dark.svg)
+
+---
+
 # ✨ Let's Connect
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-white?logo=email)](mailto:yrp.yashpatil@outlook.com) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?logo=github)](https://github.com/yrp-yashpatil) <br>
 [![Credly](https://img.shields.io/badge/Credly-Follow-white?logo=credly)](https://www.credly.com/users/yrp_yashpatil) <br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-white?logo=Kaggle)](https://www.kaggle.com/yashrp8) <br>
+
+
