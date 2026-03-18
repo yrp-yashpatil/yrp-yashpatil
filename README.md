@@ -5,6 +5,21 @@ Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, M
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil) 
 
 ---
+### 🛠 Tech Stack & Skills
+
+**Analytics & Visualization**
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**AI, ML & Cloud**
+![LLMs](https://img.shields.io/badge/LLMs-Agentic_AI-blueviolet?style=flat)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+**Consulting & Strategy**
+> **Methodologies:** MECE, Pyramid Principle, Root Cause Analysis (RCA), ESG Frameworks (GHG Scope 1, 2, 3)
 
 # Featured Projects
 🛡️ Real-Time Fraud Detection System
@@ -21,13 +36,6 @@ Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, M
 - Google Gemini Pro Prompt Engineering NLP JSON
 - Automated CV–JD matching using Google Gemini Pro and structured prompt templates, reducing recruitment screening time by 80% (15 min → 3 min per candidate). Extracts skill gaps, experience metrics, and suitability scores into structured JSON & outperforming keyword-based ATS systems.
 
-🧰 Tech Stack
-- Data Analysis: SQL, Python (Pandas, Scikit-Learn, NumPy), Jupyter Labs & Notebook, Alteryx, ETL Pipelines, Advanced Excel 
-(Pivot Tables, VBA, Macros), Exploratory Data Analysis (EDA)
-- Data Visualization: Power BI, Tableau, MS PowerPoint, Python (Matplotlib, Seaborn), MS Word
-- Cloud & Big Data: Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), Oracle Analytics Cloud, Databricks
-- AI & ML Automation: Artificial Intelligence, Machine Learning, Gen AI, Prompt Engineering, LLMs, AI Agents Development 
-
 ---
 
 # 📜 Certifications (Selected)
@@ -38,12 +46,6 @@ Currently open to roles in Data Analysis, Business/Research/Strategy Analysis, M
 - BCG Strategy Consulting & Climate Consulting (2025)
 - (In Progress) Google Cloud Data Analytics
 - (In Progress) Oracle Analytics Cloud Professional & Oracle Gen AI Professional
-
----
-
-# 🏢 Background
-- Before pivoting into data, I worked in aviation operations at IndiGo Airlines managing 600+ aircraft turnarounds with zero delays, and as an ESG Intern at Mumbai International Airport (Adani) where I built carbon emissions models covering ~28,000 monthly flights and contributed to the airport's ACI Level 5 Carbon Accreditation, the highest level achievable.
-- This blend of on-the-ground operations, sustainability analysis, and now data/AI gives me a practical, business-first lens on analytics.
 
 ---
 
