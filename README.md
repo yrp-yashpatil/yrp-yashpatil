@@ -35,13 +35,15 @@
 ![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-041E42?style=flat&logo=ms-powerpoint&logoColor=white)
 ![MS Word](https://img.shields.io/badge/MS_Word-041E42?style=flat&logo=ms-word&logoColor=white)
 
-## 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence & Workflow Automation
 ![LLMs](https://img.shields.io/badge/LLMs-041E42?style=flat&logo=LLMs&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-041E42?style=flat&logo=agentic-ai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-041E42?style=flat&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-041E42?style=flat&logo=google-gemini&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-041E42?style=flat&logo=prompt-engineering&logoColor=white)
 ![Google Antigravity ](https://img.shields.io/badge/Google_Antigravity-041E42?style=flat&logo=google-antigravity&logoColor=white)
+
+![n8n](https://img.shields.io/badge/n8n-041E42?style=flat&logo=n8n&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-041E42?style=flat&logo=agentic-ai&logoColor=white)
 
 ## ☁️ Cloud Platforms
 ![Google Cloud Platform (GCP)](https://img.shields.io/badge/GCP-041E42?style=flat&logo=google-cloud&logoColor=white)
@@ -59,7 +61,7 @@
 - Strategic Planning
 - Stakeholder Management
 - Business Process Improvement
-- Finance
+- Financial Modelling
 
 ---
 
