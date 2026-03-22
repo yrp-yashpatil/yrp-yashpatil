@@ -66,21 +66,24 @@
 ---
 
 # 🎯 Strategic Impact and Key Achievements
+Strategic Impact & Key Achievements 
 - Designed and developed a first-of-its-kind circular runway model within 2 months to demonstrate unconventional airport infrastructure; led a 6-member team and won 1st Prize at the Aeronautical Seminar.
 - Led & managed cross-functional teams of 15+ members to execute 600+ aircraft turnarounds with 100% On-Time Performance, zero safety violations, and zero delays.
 - Recognized with the “Best Technical Knowledge Award” for resolving complex operational bottlenecks and maintaining seamless communication between flight crew and ground stakeholders.
 - Developed a reputation for synthesizing complex technical requirements into actionable operational plans under 40-minute turnaround windows.
-- Lost my job due to the budget cuts during the Lock-downs of the Covid19 Pandemic in 2020.
-- Enrolled in an MBA degree from Tier 3 or Tier 4 college to delay my employment by two more years in 2022. (Realised that this was a wrong decision)
-- ESG Analyst Summer Internship (JUL 2023 - SEP 2023)
 - Spearheaded the data collection and modelling for GHG Scope 1, 2, & 3 emissions for 28K monthly flights, leading to a 20% improvement in ESG data integrity.
 - Played a pivotal role in the submission for the Airports Council International (ACI) accreditation, directly contributing to Mumbai Airport achieving Level 5 Accreditation (the highest global standard for carbon management).
-- Developed Excel-based carbon emission models to identify high-emission areas and designed structured PowerPoint deliverables translating analytical findings into executive-ready visual narratives for stakeholder presentations. 
-- Developed a liking towards strategy, finance, problem solving, etc, during the MBA and realised that I don't have to stay in Aviation.
-- Graduated MBA in June 2024 and decided to explore this new interest in Data Analysis, AI/ML, Management Consulting, Finance.
-- It took some time to let go of Aeronautics and Aviation, an industry that I developed a passion for ever since I was a child.
-- Finally decided to enhance and improve my skillset in these fields in January 2025.
-- I have improved a lot since June 2024 and I am a much better person, candidate now.
+- Developed Excel-based carbon emission models to identify high-emission areas and designed structured PowerPoint deliverables translating analytical findings into executive-ready visual narratives for stakeholder presentations.
+
+---
+
+# 🤖 Next Generation Capabilities and Continuous Learning
+- Actively improving skills in Agentic AI, and n8n workflow automations to streamline repetitive tasks. This mindset allows me to approach presentation design with an eye for efficiency, ensuring high-quality outputs even under the tightest consulting deadlines.
+- Developed an intelligent recruitment automation AI Agent using Google Gemini 3 Pro and AI Studio to solve high-volume candidate screening challenges, reducing manual review time by 80%.
+- Developed a machine learning system to detect fraudulent payment transactions within a synthetic financial dataset of 6.3 million records, analyzing transaction patterns with 94% accuracy.
+- Developed an end-to-end automated data pipeline using n8n to streamline digital marketing analytics and performance reporting.
+- My technical foundation is built on elite industry programs, including the Google Kaggle AI program and the Google Cloud Technical Series. Currently, I am deepening my expertise in Google Cloud Platform (GCP) through the Google Gen AI Academy (Hack2Skill) and Google Skills, mastering the deployment of LLMs and generative workflows.This allows me to not only design slides but to conceptualize how AI can automate data storytelling and presentation workflows.
+- Also, I am building finance skillset through CFI Corporate Finance Foundations and CFI Financial Analysis and Modelling to have a well-rounded strategic profile.
 
 ---
 
