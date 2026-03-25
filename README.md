@@ -1,5 +1,6 @@
 # Hello There, I am Yash Patil 👋
-### *Management Consultant, Data & AI Analyst | Strategy & Business Intelligence* <br>
+### *Management Consulting | Data Analytics | Research Analyst | AI & Automation | McKinsey Forward Alum | Oracle Certified | Ex-Indigo | Ex-Adani Airports* <br>
+
 - I am currently deepening my expertise in Corporate Finance and Financial Modeling.
 - By integrating financial rigor with my existing Data/AI/ML toolkit, I am building a well-rounded strategic profile.
 - Open to roles in Management Consulting, Data Analysis, Business/Research/Strategy/ESG Analysis & Finance.<br>
