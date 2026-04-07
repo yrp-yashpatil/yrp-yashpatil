@@ -51,6 +51,17 @@
 ![Databricks](https://img.shields.io/badge/Databricks-041E42?style=flat&logo=databricks&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-041E42?style=flat&logo=Oracle&logoColor=white)
 
+## Finance
+![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-041E42?style=flat&logo=Financial-Modelling&logoColor=white)
+
+![3 Statement Model](https://img.shields.io/badge/3_Statement_Model-041E42?style=flat&logo=Model&logoColor=white)
+![Discounted Cash Flow](https://img.shields.io/badge/Discounted_Cash_Flow_DCF-041E42?style=flat&logo=Modelling&logoColor=white)
+![Ratio Analysis](https://img.shields.io/badge/Ratio_Analysis-041E42?style=flat&logo=Financial-Modelling&logoColor=white)
+
+
+
+
+
 ## 💡 Management Consulting & Business Strategy
 - Hypothesis-Driven Problem Solving
 - MECE (Mutually Exclusive, Collectively Exhaustive)
