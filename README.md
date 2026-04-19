@@ -1,10 +1,5 @@
 # Hello There, I am Yash Patil 👋
-### *Management Consulting | Data Analytics | Research Analyst | AI & Automation | McKinsey Forward Alum | Oracle Certified | Ex-Indigo | Ex-Adani Airports* <br>
-
-- I am currently deepening my expertise in Corporate Finance and Financial Modeling.
-- By integrating financial rigor with my existing Data/AI/ML toolkit, I am building a well-rounded strategic profile.
-- Open to roles in Management Consulting, Data Analysis, Business/Research/Strategy/ESG Analysis & Finance.<br>
-
+Self-taught analyst & consultant with excellent analytical and project management skills, ability to lead & manage stakeholders, cross functional teams and ever-growing interest & expertise in Consulting, Research, Financial Modelling, Valuations, AI, Advanced Excel and Data Analysis & Visualization.
 
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil) 
 
