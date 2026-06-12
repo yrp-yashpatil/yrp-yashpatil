@@ -1,7 +1,8 @@
 # Hello There, I am Yash Patil 👋
-## *Aeronutics & Aviation | Finance & Valuation Analyst | Management Consultant*
+## *Aeronautics & MBA Aviation Management → Finance & Management Consulting | Financial Modelling & Valuation | Progressing towards Bloomberg Market Concepts, CFA Level 1 & NISM-XV Candidate*
+## *Aspiring Analyst - Consulting | IB | PE | Equity Research*
 
-- I am an Analyst complemented by background in Aeronautics, Aviation Management and experience in Aviation Operations transitioning into Maanagement Consulting & Finance, skilled in Advanced Excel, Financial Models, Data analysis & Visualization and AI.
+- I am an Analyst complemented by background in Aeronautics, Aviation Management and experience in Aviation Operations transitioning into Management Consulting & Finance, skilled in Advanced Excel, Financial Models, Data analysis & Visualization and AI.
 - Excellent problem solving, analytical & project management skills, ability to lead cross functional teams and manage stakeholders.
 
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil) 
@@ -102,7 +103,7 @@
 - Extracted and aggregated multi-table datasets into optimized tables to streamline reporting and ensure data consistency and performed Exploratory Data Analysis (EDA).
 - Created a comprehensive Power BI dashboard, PowerPoint presentation and a structured business report providing actionable recommendations on diversifying supplier partnerships to mitigate supply chain risks.
 - Developed a machine learning system to detect fraudulent payment transactions within a synthetic financial dataset of 6.3 million records, analyzing transaction patterns with 94% accuracy.
-- Developed an intelligent recruitment automation AI Agent using Google Gemini 3 Pro and Google AI Studio to solve high-volume candidate screening challenges, reducing manual review time by 80%.
+- Developed an intelligent recruitment automation AI Agent using Google Gemini 3 Pro and Google AI Studio to solve high-volume candidate screening challenges, reducing manual review time by 60%.
 - Developed an end-to-end automated data pipeline using n8n to streamline analytics and performance reporting.
 
 ---
