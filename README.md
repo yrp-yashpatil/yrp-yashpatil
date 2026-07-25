@@ -1,22 +1,24 @@
-# Hello There, I am Yash Patil 👋
-## *Aeronautics & MBA Aviation Management → Finance & Management Consulting | Financial Modelling & Valuation | Progressing towards Bloomberg Market Concepts, CFA Level 1 & NISM-XV Candidate*
-## *Aspiring Analyst - Consulting | IB | PE | Equity Research*
+# Hello There!, I am Yash Patil 👋
+## Aeronautics & MBA Aviation Management to Finance and Strategy & Management Consulting
+***Aspiring Analyst - Consulting | IB | PE | Private Credit | Equity Research***<br>
+**Progressing towards Bloomberg Market Concepts, CFA Level 1**
 
-- I am an Analyst complemented by background in Aeronautics, Aviation Management and experience in Aviation Operations transitioning into Management Consulting & Finance, skilled in Advanced Excel, Financial Models, Data analysis & Visualization and AI.
-- Excellent problem solving, analytical & project management skills, ability to lead cross functional teams and manage stakeholders.
+Highly motivated professional complemented by expertise in Aeronautics and Aviation Operations with excellent skills in strategic planning, structured problem-solving and contributing to business growth in fast paced environments. Proficient in Advanced Excel, AI, Data Analysis & Visualization, Financial Analysis, Models and Financial Markets
 
 [![](https://komarev.com/ghpvc/?username=yrp-yashpatil&flat-square)](https://github.com/yrp-yashpatil) 
 
 ---
 
-# Management Consulting & Finance
+# Skills
 ## Finance & Valuation
-- Financial Models (3 Statement, DCF, SOTP, LBO, Comps)
+- Financial Models (3 Statement, DCF, SOTP, LBO, CCA)
 - Financial Statements
 - Valuations
 - Equity Research
 - Forecasting
 - Ratio Analysis
+- Industry Analysis
+- Financial Databases
 
 ---
 
@@ -70,6 +72,7 @@
 ![Databricks](https://img.shields.io/badge/Databricks-041E42?style=flat&logo=databricks&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-041E42?style=flat&logo=Oracle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-041E42?style=flat&logo=GitHub&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-041E42?style=flat&logo=Google-Colab&logoColor=white)
 
 ---
 
@@ -90,24 +93,6 @@
 
 ---
 
-# Next Generation Capabilities and Continuous Learning
-## Finance & Valuation
-- Progressing towards
-  - Bloomberg Market Concepts
-  - NISM Series XV
-  - CFA Level 1
-- Automated the financial model to function as a reusable template for any Indian listed public company, enabling dynamic data input, automatic recalculation across all three statements and increasing efficiency by 50%.
-- Analysed the Space X IPO and built a sum-of-the-parts valuation across SpaceX's Connectivity, Space, and AI segments using SEC Form S-1 data, applying segment-specific multiples to reflect differing profitability and built risk framework.
-
-## Data Science
-- Extracted and aggregated multi-table datasets into optimized tables to streamline reporting and ensure data consistency and performed Exploratory Data Analysis (EDA).
-- Created a comprehensive Power BI dashboard, PowerPoint presentation and a structured business report providing actionable recommendations on diversifying supplier partnerships to mitigate supply chain risks.
-- Developed a machine learning system to detect fraudulent payment transactions within a synthetic financial dataset of 6.3 million records, analyzing transaction patterns with 94% accuracy.
-- Developed an intelligent recruitment automation AI Agent using Google Gemini 3 Pro and Google AI Studio to solve high-volume candidate screening challenges, reducing manual review time by 60%.
-- Developed an end-to-end automated data pipeline using n8n to streamline analytics and performance reporting.
-
----
-
 # Strategic Impact and Key Achievements
 ## Functional Circular Runway
 - Spearheaded the design and development of a functional circular runway model within 2 months, proving unconventional airport infrastructure viability.
@@ -123,34 +108,8 @@
 
 ---
 
-# Certifications (Selected)
-- CFI Corporate Finance Foundations
-- CFI Financial Modelling & Analysis
-- McKinsey & Company Forward Program
-- Oracle OCI AI Foundations
-
----
-
-# Virtual Job Simulations (Selected)
-## Boston Consulting Group BCG
-### Strategy Consulting
-- I recently completed BCG's strategy consulting virtual job simulation on Forage.com, which gave me a clear sense of what it’s like to contribute to a client-focused project team.
-- In this simulation, I explored strategic pricing options by conducting market research, analyzing competitor performance, designing a customer survey, and interpreting real-world business data
-
-### Climate and Sustainability Consulting
-- I recently completed in BCG's job simulation on the Forage platform, gaining valuable insights into what it's like to be part of BCG's Climate & Sustainability team.
-- I worked on a project focused on completing a carbon emissions analysis and analyzing reduction initiatives to advise a company on the best course to reach Net Zero, whilst also making adaptations based on investor concerns. I practiced using industry-relevant tools and built my analytical skills in a real-world context.
-
-## Deloitte 
-### Data Analytics
-- I recently participated in Deloitte's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of the team at Deloitte.
-- I was able to analyse data and create a dashboard. I practised using Tableau and Excel and built my data analysis skills in a real-world context.
-
----
-
 # ✨ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin)](https://linkedin.com/in/yashpatil08) <br>
 [![Credly](https://img.shields.io/badge/Credly-Follow-white?logo=credly)](https://www.credly.com/users/yrp_yashpatil) <br>
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-white?logo=Kaggle)](https://www.kaggle.com/yashrp8) <br>
 
 
