@@ -5,6 +5,11 @@ This Markdown document outlines my professional certifications, virtual internsh
 
 ---
 
+# Bloomberg
+- Bloomberg Market Concepts
+
+---
+
 # Corporate Finance Institute CFI
 - Financial Analysis & Modelling
 - Corporate Finance FOundations
