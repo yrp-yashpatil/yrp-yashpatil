@@ -94,17 +94,20 @@ Highly motivated professional complemented by expertise in Aeronautics and Aviat
 ---
 
 # Strategic Impact and Key Achievements
-## Functional Circular Runway
-- Spearheaded the design and development of a functional circular runway model within 2 months, proving unconventional airport infrastructure viability.
-- Led & managed a 6-member team to win 1st Prize at the Aeronautical Seminar by applying rigorous aeronautical and physics principles.
+## Career Transition and Professional Development 2025 - 2026
+- Developed core competencies in AI, Python, SQL, Power BI, Tableau, Financial Analysis & Modelling & Valuations, Market Entry and Structured Problem-Solving by completing professional certifications & accelerators, including the McKinsey Forward Program and virtual job simulations.
 
-## Airport Operations Officer, Indigo Airlines (Interglobe Aviation Limited)
+## ESG Analyst Intern, Mumbai International Airport Limited (Adani Airport Holdings Limited) | 2023
+- Improved ESG data integrity by 20% by developing emission models and spearheading GHG Scope 1, 2, & 3 data collection across 28K monthly flights, ensuring compliance with ACI Airport Carbon Accreditation Level 5 standards.
+- Developed Excel-based carbon emission models to identify high-emission areas and designed structured PowerPoint deliverables translating analytical findings into executive-ready visual narratives for stakeholder presentations.
+
+## Airport Operations Officer, Indigo Airlines (Interglobe Aviation Limited) | 2020
 - Led & managed cross-functional teams of 15+ members to execute 600+ aircraft turnarounds with 100% 0n-time performance under 40-minute turnaround window while maintaining zero delays and zero safety violations.
 - Recognized with the Best Technical Knowledge Award for resolving complex operational bottlenecks and maintaining seamless communication between flight crew and ground stakeholders.
 
-## ESG Analyst Intern, Mumbai International Airport Limited (Adani Airport Holdings Limited)
-- Improved ESG data integrity by 20% by developing emission models and spearheading GHG Scope 1, 2, & 3 data collection across 28K monthly flights, ensuring compliance with ACI Airport Carbon Accreditation Level 5 standards.
-- Developed Excel-based carbon emission models to identify high-emission areas and designed structured PowerPoint deliverables translating analytical findings into executive-ready visual narratives for stakeholder presentations.
+## Functional Circular Runway | 2018
+- Spearheaded the design and development of a functional circular runway model within 2 months, proving unconventional airport infrastructure viability.
+- Led & managed a 6-member team to win 1st Prize at the Aeronautical Seminar by applying rigorous aeronautical and physics principles.
 
 ---
 
