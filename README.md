@@ -83,6 +83,7 @@ Led a 6-member team to research and construct a functional circular runway proto
 
 # Curated Obsessions
 - I love ***Dive Watches***, ***ThinkPads***, ***Cars***, ***Books***, ***Cats***, ***Aeronautics & Aviation***,...
+- This journey of upskilling and career transition has made me realise how little I actually knew and it has made me far more curious about what I can learn next.
 
 ---
 
